@@ -1,0 +1,75 @@
+/**********************/
+/* Footer media query */
+/*     over 368px     */
+/**********************/
+@media (min-width: 23em) {
+  /* Header */
+
+  /* Hero */
+
+  /* About */
+
+  /* Creations */
+
+  /* Footer */
+}
+
+/**********************/
+/*     over 480px     */
+/**********************/
+@media only screen and (min-width: 30em) {
+  /* Header */
+
+  /* Hero */
+
+  /* About */
+
+  /* Creations */
+
+  /* Footer */
+}
+
+/**********************/
+/*     over 640px     */
+/**********************/
+@media only screen and (min-width: 43em) {
+  /* Header */
+
+  /* Hero */
+
+  /* About */
+
+  /* Creations */
+
+  /* Footer */
+}
+
+/**********************/
+/*     over 928px     */
+/**********************/
+@media only screen and (min-width: 58em) {
+  /* Header */
+
+  /* Hero */
+
+  /* About */
+
+  /* Creations */
+
+  /* Footer */
+}
+
+/***********************/
+/*     over 1120px     */
+/***********************/
+@media only screen and (min-width: 70em) {
+  /* Header */
+
+  /* Hero */
+
+  /* About */
+
+  /* Creations */
+
+  /* Footer */
+}

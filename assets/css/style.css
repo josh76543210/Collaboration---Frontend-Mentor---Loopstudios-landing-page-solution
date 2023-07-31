@@ -1,0 +1,50 @@
+/* Fonts */
+/* font-family: 'Alata', sans-serif; */
+@import url("https://fonts.googleapis.com/css2?family=Alata&display=swap");
+/* font-family: 'Josefin Sans', sans-serif; */
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap");
+
+/* Colors */
+:root {
+  /* PRIMARY */
+  --white: hsl(0, 0%, 100%);
+  --black: hsl(0, 0%, 0%);
+  --dark-gray: hsl(0, 0%, 55%);
+  --very-dark-gray: hsl(0, 0%, 41%);
+}
+
+/* General Styling */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Alata", sans-serif;
+  line-height: 1;
+  font-size: calc((15 / 16) * 1rem);
+  font-weight: 400;
+  color: var(--black);
+  background-color: var(--white);
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hidden {
+  display: none !important;
+}
+
+/* Header */
+
+/* Hero */
+
+/* About */
+
+/* Creations */
+
+/* Footer */
