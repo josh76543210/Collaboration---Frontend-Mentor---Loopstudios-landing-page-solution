@@ -58,6 +58,7 @@ Users should be able to:
 | ------------ | ------------- | ------------- |
 | initial      |               |               |
 | update 1     |               |               |
+| update 2     |               |               |
 
 ## Author
 
