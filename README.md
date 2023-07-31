@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [https://frontend-mentor-loopstudios-page.netlify.app/](https://frontend-mentor-loopstudios-page.netlify.app/)
 
 ## My process
 
@@ -57,6 +57,7 @@ Users should be able to:
 | josh76543210 | Contributor 1 | Contributor 2 |
 | ------------ | ------------- | ------------- |
 | initial      |               |               |
+| update 1     |               |               |
 
 ## Author
 
