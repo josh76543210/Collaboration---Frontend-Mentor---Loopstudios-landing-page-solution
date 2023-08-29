@@ -1,61 +1,57 @@
 /**********************/
-/* Footer media query */
-/*     over 368px     */
-/**********************/
-@media (min-width: 23em) {
-  /* Header */
-
-  /* Hero */
-
-  /* About */
-
-  /* Creations */
-
-  /* Footer */
-}
-
-/**********************/
 /*     over 480px     */
 /**********************/
 @media only screen and (min-width: 30em) {
+  /* SECTION 1 */
   /* Header */
 
   /* Hero */
 
+  /* SECTION 2 */
   /* About */
 
+  /* SECTION 3 */
   /* Creations */
 
+  /* SECTION 4 */
   /* Footer */
 }
 
 /**********************/
 /*     over 640px     */
 /**********************/
-@media only screen and (min-width: 43em) {
+@media only screen and (min-width: 40em) {
+  /* SECTION 1 */
   /* Header */
 
   /* Hero */
 
+  /* SECTION 2 */
   /* About */
 
+  /* SECTION 3 */
   /* Creations */
 
+  /* SECTION 4 */
   /* Footer */
 }
 
 /**********************/
-/*     over 928px     */
+/*     over 960px     */
 /**********************/
-@media only screen and (min-width: 58em) {
+@media only screen and (min-width: 60em) {
+  /* SECTION 1 */
   /* Header */
 
   /* Hero */
 
+  /* SECTION 2 */
   /* About */
 
+  /* SECTION 3 */
   /* Creations */
 
+  /* SECTION 4 */
   /* Footer */
 }
 
@@ -63,13 +59,17 @@
 /*     over 1120px     */
 /***********************/
 @media only screen and (min-width: 70em) {
+  /* SECTION 1 */
   /* Header */
 
   /* Hero */
 
+  /* SECTION 2 */
   /* About */
 
+  /* SECTION 3 */
   /* Creations */
 
+  /* SECTION 4 */
   /* Footer */
 }

@@ -54,20 +54,21 @@ Users should be able to:
 
 ### Updates
 
-| josh76543210 | Contributor 1 | Contributor 2 |
-| ------------ | ------------- | ------------- |
-| initial      |               |               |
-| update 1     |               |               |
-| update 2     |               |               |
+| josh76543210 | Leroy-sama | SoloLere | ShalomiAhavah |
+| ------------ | ---------- | -------- | ------------- |
+| initial      |            |          |               |
+| update 1     |            |          |               |
+| update 2     |            |          |               |
+| update 3     |            |          |               |
 
 ## Author
 
-- Frontend Mentor - [@josh76543210](https://www.frontendmentor.io/profile/josh76543210)
-- Twitter - [@josh76543210](https://www.twitter.com/josh76543210)
+- [@josh76543210](https://github.com/josh76543210)
 
 ## Acknowledgments
 
 Contributors to the project:
 
-- Contributor 1 - [Github]()
-- Contributor 2 - [Github]()
+- [@Leroy-sama](https://github.com/Leroy-sama)
+- [@SoloLere](https://github.com/SoloLere)
+- [@ShalomiAhavah](https://github.com/ShalomiAhavah)
