@@ -4,16 +4,18 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Workflow for contribution](#workflow-for-contribution)
-  - [Updates](#updates)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Frontend Mentor - Loopstudios landing page solution](#frontend-mentor---loopstudios-landing-page-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [Workflow for contribution:](#workflow-for-contribution)
+    - [Updates](#updates)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -54,13 +56,13 @@ Users should be able to:
 
 ### Updates
 
-| josh76543210 | Leroy-sama | SoloLere | ShalomiAhavah |
-| ------------ | ---------- | -------- | ------------- |
-| initial      |            |          |               |
-| update 1     |            |          |               |
-| update 2     |            |          |               |
-| update 3     |            |          |               |
-| update 4     |            |          |               |
+| josh76543210 | Leroy-sama | SoloLere    | ShalomiAhavah |
+| ------------ | ---------- | ----------- | ------------- |
+| initial      |            | upadate 5   |               |
+| update 1     |            |             |               |
+| update 2     |            |             |               |
+| update 3     |            |             |               |
+| update 4     |            |             |               |
 
 ## Author
 
