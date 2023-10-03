@@ -64,6 +64,7 @@ Users should be able to:
 | update 3     |            |          |
 | update 4     |            |          |
 | update 8     |            |          |
+| update 9     |            |          |
 
 ## Author
 

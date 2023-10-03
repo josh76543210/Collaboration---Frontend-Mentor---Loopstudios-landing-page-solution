@@ -1,75 +1,125 @@
 /**********************/
+/*     over 320px     */
+/**********************/
+@media only screen and (min-width: 20em) {
+  /* SECTION 1 BEGIN*/
+
+  /* SECTION 1 END*/
+  /* ******************* */
+  /* SECTION 2 BEGIN*/
+
+  /* SECTION 2 END*/
+  /* ******************* */
+  /* SECTION 3 BEGIN*/
+
+  /* SECTION 3 END*/
+  /* ******************* */
+  /* SECTION 4 BEGIN*/
+
+  /* SECTION 4 END*/
+}
+
+/**********************/
 /*     over 480px     */
 /**********************/
 @media only screen and (min-width: 30em) {
-  /* SECTION 1 */
-  /* Header */
+  /* SECTION 1 BEGIN*/
 
-  /* Hero */
+  /* SECTION 1 END*/
+  /* ******************* */
+  /* SECTION 2 BEGIN*/
 
-  /* SECTION 2 */
-  /* About */
+  /* SECTION 2 END*/
+  /* ******************* */
+  /* SECTION 3 BEGIN*/
 
-  /* SECTION 3 */
-  /* Creations */
+  /* SECTION 3 END*/
+  /* ******************* */
+  /* SECTION 4 BEGIN*/
 
-  /* SECTION 4 */
-  /* Footer */
+  /* SECTION 4 END*/
 }
 
 /**********************/
 /*     over 640px     */
 /**********************/
 @media only screen and (min-width: 40em) {
-  /* SECTION 1 */
-  /* Header */
+  /* SECTION 1 BEGIN*/
 
-  /* Hero */
+  /* SECTION 1 END*/
+  /* ******************* */
+  /* SECTION 2 BEGIN*/
 
-  /* SECTION 2 */
-  /* About */
+  /* SECTION 2 END*/
+  /* ******************* */
+  /* SECTION 3 BEGIN*/
 
-  /* SECTION 3 */
-  /* Creations */
+  /* SECTION 3 END*/
+  /* ******************* */
+  /* SECTION 4 BEGIN*/
 
-  /* SECTION 4 */
-  /* Footer */
+  /* SECTION 4 END*/
+}
+
+/**********************/
+/*     over 800px     */
+/**********************/
+@media only screen and (min-width: 50em) {
+  /* SECTION 1 BEGIN*/
+
+  /* SECTION 1 END*/
+  /* ******************* */
+  /* SECTION 2 BEGIN*/
+
+  /* SECTION 2 END*/
+  /* ******************* */
+  /* SECTION 3 BEGIN*/
+
+  /* SECTION 3 END*/
+  /* ******************* */
+  /* SECTION 4 BEGIN*/
+
+  /* SECTION 4 END*/
 }
 
 /**********************/
 /*     over 960px     */
 /**********************/
 @media only screen and (min-width: 60em) {
-  /* SECTION 1 */
-  /* Header */
+  /* SECTION 1 BEGIN*/
 
-  /* Hero */
+  /* SECTION 1 END*/
+  /* ******************* */
+  /* SECTION 2 BEGIN*/
 
-  /* SECTION 2 */
-  /* About */
+  /* SECTION 2 END*/
+  /* ******************* */
+  /* SECTION 3 BEGIN*/
 
-  /* SECTION 3 */
-  /* Creations */
+  /* SECTION 3 END*/
+  /* ******************* */
+  /* SECTION 4 BEGIN*/
 
-  /* SECTION 4 */
-  /* Footer */
+  /* SECTION 4 END*/
 }
 
 /***********************/
 /*     over 1120px     */
 /***********************/
 @media only screen and (min-width: 70em) {
-  /* SECTION 1 */
-  /* Header */
+  /* SECTION 1 BEGIN*/
 
-  /* Hero */
+  /* SECTION 1 END*/
+  /* ******************* */
+  /* SECTION 2 BEGIN*/
 
-  /* SECTION 2 */
-  /* About */
+  /* SECTION 2 END*/
+  /* ******************* */
+  /* SECTION 3 BEGIN*/
 
-  /* SECTION 3 */
-  /* Creations */
+  /* SECTION 3 END*/
+  /* ******************* */
+  /* SECTION 4 BEGIN*/
 
-  /* SECTION 4 */
-  /* Footer */
+  /* SECTION 4 END*/
 }
