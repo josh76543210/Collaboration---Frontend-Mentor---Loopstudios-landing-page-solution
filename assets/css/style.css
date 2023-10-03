@@ -1,3 +1,5 @@
+/* GENERAL STYLING BEGIN*/
+/*     DO NOT EDIT      */
 /* Fonts */
 /* font-family: 'Alata', sans-serif; */
 @import url("https://fonts.googleapis.com/css2?family=Alata&display=swap");
@@ -13,7 +15,6 @@
   --very-dark-gray: hsl(0, 0%, 41%);
 }
 
-/* General Styling */
 * {
   padding: 0;
   margin: 0;
@@ -38,17 +39,29 @@ body {
 .hidden {
   display: none !important;
 }
+/*     DO NOT EDIT     */
+/* GENERAL STYLING END */
+/* ******************* */
+/* SECTION 1 BEGIN*/
 
-/* SECTION 1 */
-/* Header */
+/* Section 1 css goes here (delete this line) */
 
-/* Hero */
+/* SECTION 1 END*/
+/* ******************* */
+/* SECTION 2 BEGIN*/
 
-/* SECTION 2 */
-/* About */
+/* Section 2 css goes here (delete this line) */
 
-/* SECTION 3 */
-/* Creations */
+/* SECTION 2 END*/
+/* ******************* */
+/* SECTION 3 BEGIN*/
 
-/* SECTION 4 */
-/* Footer */
+/* Section 3 css goes here (delete this line) */
+
+/* SECTION 3 END*/
+/* ******************* */
+/* SECTION 4 BEGIN*/
+
+/* Section 4 css goes here (delete this line) */
+
+/* SECTION 4 END*/
