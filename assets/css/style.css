@@ -28,6 +28,7 @@ body {
   font-weight: 400;
   color: var(--black);
   background-color: var(--white);
+  position: relative;
 }
 
 .flex-center {
@@ -44,7 +45,126 @@ body {
 /* ******************* */
 /* SECTION 1 BEGIN*/
 
-/* Section 1 css goes here (delete this line) */
+/* header */
+.header {
+  height: calc((100 / 16) * 1rem);
+  width: 100%;
+  position: absolute;
+  top: 0;
+
+  display: flex;
+}
+
+.header__nav {
+  width: 100%;
+  max-width: calc((1000 / 16) * 1rem);
+  margin: 0 auto;
+}
+
+.header__nav-container {
+  height: 100%;
+  padding: 0 calc((20 / 16) * 1rem);
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__logo {
+  z-index: 101;
+}
+
+.header__nav-toggler {
+  cursor: pointer;
+  border: none;
+  background: transparent;
+}
+
+.header__nav-list {
+  list-style: none;
+}
+
+.header__nav-item {
+  margin-bottom: calc((35 / 16) * 1rem);
+}
+
+.header__nav-link:link,
+.header__nav-link:visited {
+  color: var(--white);
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: calc((22 / 16) * 1rem);
+  font-weight: 300;
+  padding-bottom: calc((5 / 16) * 1rem);
+  position: relative;
+}
+
+.header__nav-link:hover::after,
+.header__nav-link:active::after {
+  content: " ";
+  height: calc((3 / 16) * 1rem);
+  width: calc((30 / 16) * 1rem);
+  background-color: var(--white);
+  position: absolute;
+  bottom: calc((-3 / 16) * 1rem);
+  left: 0;
+}
+
+/* hide list */
+[aria-expanded="false"] ~ ul {
+  display: none;
+}
+
+/* open navigation */
+[aria-expanded="true"] {
+  z-index: 101;
+}
+
+[aria-expanded="true"] .header__nav-icon {
+  content: url(../images/icon-close.svg);
+}
+
+[aria-expanded="true"] ~ ul {
+  z-index: 100;
+  display: block;
+  background: var(--black);
+  padding: calc((100 / 16) * 1rem) calc((20 / 16) * 1rem) 0;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* hero section */
+.hero {
+  padding: calc((60 / 16) * 1rem) calc((20 / 16) * 1rem) 0;
+  height: 100vh;
+  background-image: url(../images/mobile/image-hero.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+
+  display: flex;
+  align-items: center;
+}
+
+.hero__title-container {
+  border: calc((2 / 16) * 1rem) solid var(--white);
+  color: var(--white);
+  text-transform: uppercase;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 300;
+  font-size: calc((28 / 16) * 1rem);
+  padding: calc((20 / 16) * 1rem);
+  max-width: calc((400 / 16) * 1rem);
+}
 
 /* SECTION 1 END*/
 /* ******************* */
