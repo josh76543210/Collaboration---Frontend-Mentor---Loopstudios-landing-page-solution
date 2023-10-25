@@ -60,7 +60,7 @@ Users should be able to:
 | ------------ | ---------- | -------- |
 | initial      | update 7   | update 5 |
 | update 1     |            | update 6 |
-| update 2     |            |          |
+| update 2     |            | update 11|
 | update 3     |            |          |
 | update 4     |            |          |
 | update 8     |            |          |
