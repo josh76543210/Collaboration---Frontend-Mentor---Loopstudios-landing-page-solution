@@ -141,6 +141,14 @@
     .footer__right-container {
       align-items: flex-end;
     }
+
+    .footer__logo {
+      align-self: flex-start;
+    }
+  
+    .footer__left-container {
+      text-align: start;
+    }
   }
 
   /* SECTION 4 END*/

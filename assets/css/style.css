@@ -193,12 +193,13 @@ h1,h2,h3 {
 
 .about__text {
   background-color: #fff;
-  --padding: calc((70 / 16) * 1rem);
+  --padding: 7%;
   padding: 0 var(--padding);
   display: flex;
   flex-direction: column;
   justify-content: end;
   text-align: center;
+  line-height: 1.5;
 }
 
 .about__text h1 {
@@ -245,15 +246,6 @@ h1,h2,h3 {
   align-self: center;
 }
 
-@media screen and (min-width: 56.25em) {
-  .footer__logo {
-    align-self: flex-start;
-  }
-
-  .footer__left-container {
-    text-align: start;
-  }
-}
 
 .footer__nav-list {
   display: flex;
