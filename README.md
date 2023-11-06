@@ -59,7 +59,7 @@ Users should be able to:
 | josh76543210 | Leroy-sama | SoloLere |
 | ------------ | ---------- | -------- |
 | initial      | update 7   | update 5 |
-| update 1     |            | update 6 |
+| update 1     | update 14  | update 6 |
 | update 2     |            |          |
 | update 3     |            |          |
 | update 4     |            |          |
