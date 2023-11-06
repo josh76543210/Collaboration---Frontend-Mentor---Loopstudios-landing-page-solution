@@ -2,63 +2,67 @@
 /*     over 320px     */
 /**********************/
 @media only screen and (min-width: 20em) {
-  /* SECTION 1 BEGIN*/
+    /* SECTION 1 BEGIN*/
 
-  /* SECTION 1 END*/
-  /* ******************* */
-  /* SECTION 2 BEGIN*/
+    /* SECTION 1 END*/
+    /* ******************* */
+    /* SECTION 2 BEGIN*/
 
-  /* SECTION 2 END*/
-  /* ******************* */
-  /* SECTION 3 BEGIN*/
+    /* SECTION 2 END*/
+    /* ******************* */
+    /* SECTION 3 BEGIN*/
 
-  /* SECTION 3 END*/
-  /* ******************* */
-  /* SECTION 4 BEGIN*/
+    /* SECTION 3 END*/
+    /* ******************* */
+    /* SECTION 4 BEGIN*/
 
-  /* SECTION 4 END*/
+    /* SECTION 4 END*/
 }
 
 /**********************/
 /*     over 480px     */
 /**********************/
 @media only screen and (min-width: 30em) {
-  /* SECTION 1 BEGIN*/
+    /* SECTION 1 BEGIN*/
 
-  /* SECTION 1 END*/
-  /* ******************* */
-  /* SECTION 2 BEGIN*/
+    /* SECTION 1 END*/
+    /* ******************* */
+    /* SECTION 2 BEGIN*/
 
-  /* SECTION 2 END*/
-  /* ******************* */
-  /* SECTION 3 BEGIN*/
+    /* SECTION 2 END*/
+    /* ******************* */
+    /* SECTION 3 BEGIN*/
 
-  /* SECTION 3 END*/
-  /* ******************* */
-  /* SECTION 4 BEGIN*/
+    /* SECTION 3 END*/
+    /* ******************* */
+    /* SECTION 4 BEGIN*/
 
-  /* SECTION 4 END*/
+    /* SECTION 4 END*/
 }
 
 /**********************/
 /*     over 640px     */
 /**********************/
 @media only screen and (min-width: 40em) {
-  /* SECTION 1 BEGIN*/
+    /* SECTION 1 BEGIN*/
 
-  /* SECTION 1 END*/
-  /* ******************* */
-  /* SECTION 2 BEGIN*/
+    /* SECTION 1 END*/
+    /* ******************* */
+    /* SECTION 2 BEGIN*/
 
-  /* SECTION 2 END*/
-  /* ******************* */
-  /* SECTION 3 BEGIN*/
+    /* SECTION 2 END*/
+    /* ******************* */
+    /* SECTION 3 BEGIN*/
 
-  /* SECTION 3 END*/
-  /* ******************* */
-  /* SECTION 4 BEGIN*/
+    .creations__items {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    /* SECTION 3 END*/
+    /* ******************* */
+    /* SECTION 4 BEGIN*/
 
-  /* SECTION 4 END*/
+    /* SECTION 4 END*/
 }
 
 /**********************/
@@ -125,6 +129,38 @@
   /* SECTION 2 END*/
   /* ******************* */
   /* SECTION 3 BEGIN*/
+  
+      .items__names {
+        bottom: 1.5rem;
+        left: 1.5rem;
+        font-size: 1.5rem;
+        width: 50%;
+    }
+
+    .creations {
+        max-width: calc((1000 / 16) * 1rem);
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .creations__items {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    #mobile__link {
+        display: none;
+    }
+
+    #desktop__link {
+        display: inline-block;
+    }
+
+    .creations__heading {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
 
   /* SECTION 3 END*/
   /* ******************* */
@@ -157,12 +193,12 @@
 /*     over 960px     */
 /**********************/
 @media only screen and (min-width: 60em) {
-  /* SECTION 1 BEGIN*/
+    /* SECTION 1 BEGIN*/
 
-  /* SECTION 1 END*/
-  /* ******************* */
-  /* SECTION 2 BEGIN*/
-
+    /* SECTION 1 END*/
+    /* ******************* */
+    /* SECTION 2 BEGIN*/
+  
   .about-grid {
     grid-auto-columns: auto;
     grid-template-columns: repeat(6, 1fr);
@@ -196,30 +232,30 @@
   /* ******************* */
   /* SECTION 3 BEGIN*/
 
-  /* SECTION 3 END*/
-  /* ******************* */
-  /* SECTION 4 BEGIN*/
+    /* SECTION 3 END*/
+    /* ******************* */
+    /* SECTION 4 BEGIN*/
 
-  /* SECTION 4 END*/
+    /* SECTION 4 END*/
 }
 
 /***********************/
 /*     over 1120px     */
 /***********************/
 @media only screen and (min-width: 70em) {
-  /* SECTION 1 BEGIN*/
+    /* SECTION 1 BEGIN*/
 
-  /* SECTION 1 END*/
-  /* ******************* */
-  /* SECTION 2 BEGIN*/
+    /* SECTION 1 END*/
+    /* ******************* */
+    /* SECTION 2 BEGIN*/
 
-  /* SECTION 2 END*/
-  /* ******************* */
-  /* SECTION 3 BEGIN*/
+    /* SECTION 2 END*/
+    /* ******************* */
+    /* SECTION 3 BEGIN*/
 
-  /* SECTION 3 END*/
-  /* ******************* */
-  /* SECTION 4 BEGIN*/
+    /* SECTION 3 END*/
+    /* ******************* */
+    /* SECTION 4 BEGIN*/
 
-  /* SECTION 4 END*/
+    /* SECTION 4 END*/
 }
