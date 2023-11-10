@@ -80,6 +80,7 @@ h3 {
 
 .header__logo {
   z-index: 101;
+  width: calc((160 / 16) * 1rem);
 }
 
 .header__nav-toggler {
@@ -169,7 +170,7 @@ h3 {
   text-transform: uppercase;
   font-family: "Josefin Sans", sans-serif;
   font-weight: 300;
-  font-size: calc((28 / 16) * 1rem);
+  font-size: calc((20 / 16) * 1rem);
   padding: calc((20 / 16) * 1rem);
   max-width: calc((400 / 16) * 1rem);
 }
