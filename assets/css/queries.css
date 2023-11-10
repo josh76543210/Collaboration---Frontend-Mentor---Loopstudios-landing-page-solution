@@ -1,8 +1,16 @@
 /**********************/
-/*     over 320px     */
+/*     over 368px     */
 /**********************/
-@media only screen and (min-width: 20em) {
+@media only screen and (min-width: 23em) {
   /* SECTION 1 BEGIN*/
+
+  .header__logo {
+    width: auto;
+  }
+
+  .hero__title-container {
+    font-size: calc((28 / 16) * 1rem);
+  }
 
   /* SECTION 1 END*/
   /* ******************* */
