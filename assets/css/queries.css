@@ -140,7 +140,7 @@
     .creations {
         max-width: calc((1000 / 16) * 1rem);
         margin: 0 auto;
-        padding-bottom: 4em;
+        padding: 0 0 5em 0;
     }
 
     .creations__items {
