@@ -133,7 +133,9 @@
     /* SECTION 1 END*/
     /* ******************* */
     /* SECTION 2 BEGIN*/
-
+    .about {
+        max-width: calc((1000 / 16) * 1rem);
+    }
     /* SECTION 2 END*/
     /* ******************* */
     /* SECTION 3 BEGIN*/
