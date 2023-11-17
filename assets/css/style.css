@@ -28,6 +28,7 @@ body {
   font-weight: 400;
   color: var(--black);
   background-color: var(--white);
+  overflow-x: hidden;
   position: relative;
 }
 
@@ -290,14 +291,14 @@ h3 {
 }
 
 .footer__container {
+  max-width: calc((1000 / 16) * 1rem);
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   justify-content: center;
 }
 
 .footer__left-container,
 .footer__right-container {
-  flex-basis: 25rem;
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
