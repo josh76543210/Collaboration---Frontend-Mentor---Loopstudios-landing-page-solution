@@ -174,26 +174,6 @@
   /* ******************* */
   /* SECTION 4 BEGIN*/
 
-  .footer__container {
-    justify-content: space-between;
-  }
-
-  .footer__nav-list {
-    margin-bottom: 0;
-  }
-
-  .footer__right-container {
-    align-items: flex-end;
-  }
-
-  .footer__logo {
-    align-self: flex-start;
-  }
-
-  .footer__left-container {
-    text-align: start;
-  }
-
   /* SECTION 4 END*/
 }
 
@@ -243,6 +223,32 @@
   /* SECTION 3 END*/
   /* ******************* */
   /* SECTION 4 BEGIN*/
+
+  .footer__container {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .footer__nav-list {
+    margin-bottom: 0;
+  }
+
+  .footer__left-container,
+  .footer__right-container {
+    flex-basis: 25rem;
+  }
+
+  .footer__right-container {
+    align-items: flex-end;
+  }
+
+  .footer__logo {
+    align-self: flex-start;
+  }
+
+  .footer__left-container {
+    text-align: start;
+  }
 
   /* SECTION 4 END*/
 }
