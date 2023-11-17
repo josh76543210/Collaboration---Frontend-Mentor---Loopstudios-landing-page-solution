@@ -290,6 +290,7 @@ h3 {
 }
 
 .footer__container {
+  max-width: calc((1000 / 16) * 1rem);
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
