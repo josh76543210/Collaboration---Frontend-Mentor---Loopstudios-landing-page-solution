@@ -133,7 +133,9 @@
   /* SECTION 1 END*/
   /* ******************* */
   /* SECTION 2 BEGIN*/
-
+  .about {
+    max-width: calc((1000 / 16) * 1rem);
+  }
   /* SECTION 2 END*/
   /* ******************* */
   /* SECTION 3 BEGIN*/
@@ -148,7 +150,7 @@
   .creations {
     max-width: calc((1000 / 16) * 1rem);
     margin: 0 auto;
-    padding: 0;
+    padding: 0 0 5em 0;
   }
 
   .creations__items {
