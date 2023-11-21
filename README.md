@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/images/screenshot.png)
 
 ### Links
 
@@ -70,6 +70,7 @@ Users should be able to:
 | update 16    |            |           |
 | update 19    |            |           |
 | update 20    |            |           |
+| update 21    |            |           |
 
 ## Author
 
